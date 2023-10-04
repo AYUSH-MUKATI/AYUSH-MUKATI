@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-mukati&show_icons=true&locale=en&layout=compact" alt="ayush-mukati" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-mukati&show_icons=true&locale=en" alt="ayush-mukati" /></p>
+
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-mukati&" alt="ayush-mukati" /></p>
